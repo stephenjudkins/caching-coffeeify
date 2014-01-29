@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "browserify": "~2.34.3",
-    "coffee-script": "~1.6.2",
+    "coffee-script": "~1.7.0",
     "convert-source-map": "~0.2.5",
     "tap": "~0.4.0"
   },
